@@ -1,10 +1,10 @@
-- 👋 Hi Everyone, I’m Aidil Fitrisyah Fadwi
--  I’m currently studying at Sriwijaya State Polytechnic
-- I am an electro engineering student
-- 📫 How to reach me is via Instagram
+# Hi Everyone, I'm Aidil Fitrisyah Fadwi 👋
 
 
-<!---
-aidilff/aidilff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👨‍💻 About Me
+- 🎓 I'm currently a 7th semester electrical engineering student at the Sriwijaya State Polytechnic.
+- 📚 I'm currently taking an online class on AI Engineering.
+
+## 📫 How to reach me via
+- Email: [aidilfitrisyah03@gmail.com]
+- Instagram : [@aidilf_f]
