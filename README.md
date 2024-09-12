@@ -6,5 +6,5 @@
 - 📚 I'm currently taking an online class on AI Engineering.
 
 ## 📫 How to reach me via
-- Email: [aidilfitrisyah03@gmail.com]
-- Instagram : [@aidilf_f]
+- 📩 Email: [aidilfitrisyah03@gmail.com]
+- 📱  Instagram : [@aidilf_f]
