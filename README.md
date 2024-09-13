@@ -1,11 +1,11 @@
 <h1 align="center">Hi Everyone👋, I'm Aidil Fitrisyah Fadwi</h1>
 <h3 align="center">I'm currently a 7th semester electrical engineering student at the Sriwijaya State Polytechnic. I am interested in control systems, pneumatic systems, electronics and Arduino.</h3>
 
-- 🌱 I’m currently learning Advanced AI
+- 💻 I’m currently learning Advanced AI
 
 - 📫 How to reach me aidilfitrisyah03@gmail.com
 
-- ⚡ Fun fact I love everything related to music
+- 🎵 Fun fact I love everything related to music
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
